@@ -1,0 +1,12 @@
+# Archivos de salida de Quarto
+# (Este es tu libro HTML renderizado)
+/_book/
+
+# Caché de Quarto
+.quarto/
+
+# Archivos del editor
+.vscode/
+
+# Archivos de Sistema Operativo (Buena práctica)
+.DS_Store
