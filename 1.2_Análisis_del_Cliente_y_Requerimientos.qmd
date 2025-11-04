@@ -1,0 +1,71 @@
+# Análisis del Cliente y Requerimientos
+
+# El Análisis como Punto de Partida del Diseño Web
+
+El proceso de Diseño y Desarrollo Web, enmarcado en la Unidad de Competencia 5 (UC 5), comienza con una etapa que es más crítica que cualquier línea de código o trazo vectorial: la **Investigación y el Análisis de Requerimientos**. En el contexto del Bachillerato Técnico, este análisis no es una simple lista de deseos del cliente, sino una **indagación metódica** para entender el problema subyacente que la solución gráfica o web debe resolver.
+
+Un Tecnólogo en Informática debe actuar como un **consultor estratégico**. Si el cliente solicita simplemente un logo azul, el Tecnólogo debe investigar *por qué* necesita un logo azul, *para quién* será ese logo, y si el azul es el color que mejor comunica su **mensaje central**.
+
+---
+
+# La Triada del Análisis Profundo
+
+La recopilación y el análisis de requerimientos deben estructurarse en tres esferas interconectadas para garantizar que el producto final no solo sea estético, sino también funcional y viable.
+
+## Esfera Estratégica: ¿Para Quién y Por Qué?
+
+Esta esfera define el propósito y el contexto del proyecto, asegurando que el diseño tenga una dirección clara.
+
+### Determinación del Público Objetivo (*Target*)
+El diseño gráfico y web es un acto de comunicación. El mensaje debe ser moldeado para el receptor.
+* **Identificación Demográfica:** Definir la edad, ubicación (ej. la comunidad de Cuenca), nivel socioeconómico y educación del usuario.
+* **Identificación Psicográfica:** Analizar los intereses, valores, actitudes y estilo de vida del usuario. Un diseño dirigido a adolescentes difiere radicalmente de uno dirigido a profesionales.
+* **Comportamiento del Usuario:** ¿El usuario es experto en tecnología? ¿Accederá al sitio web desde un dispositivo móvil o una computadora de escritorio?
+
+### Misión, Visión y Valores de la Marca
+Todo activo gráfico (logo, iconografía) debe encapsular la identidad de la organización.
+* **Misión:** ¿Cuál es el propósito fundamental del negocio? (Ej. Vender café vs. Crear experiencias de café).
+* **Valores Clave:** ¿Qué adjetivos definen la marca? (Ej. Innovación, Confianza, Tradición). Estos valores guiarán la selección de la tipografía y los colores (Teoría del Color).
+* **Análisis Competitivo:** Se investigan los competidores directos. El objetivo es diferenciar la marca para que el diseño destaque y no se confunda con las soluciones existentes en el mercado.
+
+## Esfera Funcional: El "Qué Debe Hacer"
+
+Esta esfera se concentra en las propiedades tangibles y las tareas que el activo gráfico debe realizar.
+
+### Requerimientos de Comunicación
+Se define qué información debe ser priorizada. En un logo, por ejemplo, el nombre de la empresa es primario, el eslogan es secundario. En una interfaz web, la **Llamada a la Acción (*Call-to-Action*)** es la función principal.
+* **Jerarquía de Contenido:** Establecer un orden de importancia de la información a difundir.
+* **Elementos Multimedia Necesarios:** Determinar si el proyecto requiere fotografías (mapa de bits), ilustraciones (vectoriales), clips de audio o video.
+
+### Requerimientos Técnicos del Activo
+Antes de abrir Adobe Illustrator, el diseñador debe saber dónde se usará el archivo final. Esto garantiza la **optimización** desde la fase de diseño.
+* **Formatos y Adaptabilidad:** Si es un logo, debe ser viable en formato **vectorial (SVG)**, pero también en **mapa de bits (PNG, JPG)** para redes sociales.
+* **Escalabilidad:** Se garantiza que el diseño funcione perfectamente en tamaños extremos (desde un *favicon* de 16x16 píxeles hasta una valla publicitaria). El diseño vectorial se elige precisamente por esta propiedad.
+* **Colorimetría:** Definición de los códigos de color exactos que se usarán en pantalla (**RGB o Hexadecimal**) y en impresión (**CMYK**).
+
+## Esfera de Viabilidad: El Contexto del Proyecto
+
+Esta esfera asegura que el proyecto sea realizable dentro de los límites y capacidades del cliente y del equipo técnico.
+
+### actibilidad Técnica del Entorno
+* **Infraestructura del Cliente:** ¿Qué *software* utiliza el cliente? Si el cliente no usa Adobe Illustrator, el archivo fuente debe ser exportado y entregado en un formato que pueda abrir (ej. PDF o exportado a un formato universal como EPS).
+* **Parámetros de Desarrollo:** Si el diseño web es para una plataforma específica (ej. WordPress), el diseño debe adaptarse a las limitaciones o ventajas de dicha plataforma.
+
+### Restricciones Operativas y Económicas
+* **Presupuesto:** La restricción económica afecta la cantidad de tiempo dedicado al diseño, la complejidad de las ilustraciones y las herramientas de *software* que pueden adquirirse.
+* **Tiempo de Entrega (*Timeline*):** El cronograma impone un límite al número de iteraciones de diseño (revisiones) y al detalle de la ilustración.
+
+---
+
+# La Herramienta Esencial: El Brief de Diseño
+
+El resultado tangible del análisis del cliente es el **Brief de Diseño**. Este no es solo un documento; es el **contrato conceptual** del proyecto.
+
+| Componente del Brief | Preguntas Clave para el Estudiante | Relación con el Módulo |
+| :--- | :--- | :--- |
+| **Resumen Ejecutivo** | ¿Cuál es el problema que el diseño debe resolver? | Define el Objetivo de la Unidad de Trabajo. |
+| **Público Objetivo** | ¿Quién es el destinatario final del mensaje gráfico? | Guía la selección de color y tipografía (Unidad 1). |
+| **Requerimientos Técnicos** | ¿Se necesita un SVG, un PNG o un JPG? ¿Cuáles son las dimensiones exactas? | Determina los procedimientos de exportación y optimización (Unidad 1 y 2). |
+| **Estilo y Referencias** | ¿Qué diseños le gustan al cliente? ¿Cuáles odia? | Provee la base visual para la maquetación en Illustrator (Unidad 2). |
+
+Dominar el análisis del cliente es, para el Tecnólogo en Informática, el primer paso para garantizar que la solución web no solo funcione correctamente a nivel de código, sino que también cumpla su misión de **comunicación efectiva**.

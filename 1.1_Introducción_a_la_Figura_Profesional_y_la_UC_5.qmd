@@ -1,0 +1,41 @@
+# Introducción a la Figura Profesional y la UC 5
+
+El objetivo de esta revisión es que usted identifique el **rol del Tecnólogo en Informática** en el campo de la comunicación y el desarrollo web, y relacione las habilidades de diseño gráfico y codificación con la **Unidad de Competencia 5 (UC 5)** de su Figura Profesional, cumpliendo así con el criterio de relacionar el diseño web con la competencia general de la figura profesional.
+
+## Competencia General de la Figura Profesional
+La Figura Profesional de Informática busca **optimizar el tratamiento de la información** mediante el procesamiento automático. Para lograr esto, se utilizan diversas herramientas, entre las cuales se encuentran los lenguajes de programación, las bases de datos, las redes informáticas, y, esencialmente, las **herramientas web**.
+
+El rol del Tecnólogo se centra en proponer **soluciones creativas e innovadoras** que respondan a los requerimientos de los usuarios. El Módulo de Diseño y Desarrollo Web es el vehículo principal para que estas soluciones sean visualmente accesibles y comunicativas para el usuario final.
+
+---
+
+# La Unidad de Competencia 5 (UC 5)
+
+## Definición y Alcance
+La estructura de la Figura Profesional está organizada en cinco Unidades de Competencia (UC). La **UC 5** enmarca las habilidades esenciales que usted desarrollará en este módulo, enfocándose en la **Comunicación y Difusión** de información.
+
+La UC 5 se define como: **Comunicar y difundir información utilizando herramientas multimedia y aplicaciones de desarrollo WEB de nivel intermedio, de acuerdo a los requerimientos del cliente**.
+
+Esta unidad de competencia se desglosa en los siguientes elementos clave, que corresponden a las fases de nuestro módulo:
+
+1.  **Analizar los requerimientos** de comunicación y difusión. (Fase de **Análisis y Planificación**).
+2.  **Diseñar y construir la solución** (Mockups y Código). (Fase de **Diseño Gráfico Vectorial** y **Codificación**).
+3.  **Realizar pruebas de funcionamiento** de la solución WEB. (Fase de **Validación**).
+4.  **Publicar la información** en la plataforma WEB. (Fase de **Implementación**).
+
+## Relación del Diseño con la Competencia General
+El dominio del diseño y desarrollo web (UC 5) es vital para la competencia general por tres razones fundamentales:
+
+* **Puerta de Acceso a Sistemas:** Un sistema informático desarrollado a nivel interno (por ejemplo, mediante la UC 3: Programación y Bases de Datos) necesita una interfaz web (UC 5) amigable para que el usuario pueda acceder y manipular la información de forma efectiva.
+* **Valoración Profesional:** La calidad de la **estética visual** y la **usabilidad** del producto web (logotipos, iconos, composición) es lo que distingue una solución técnica de una solución profesional e innovadora. Las habilidades de diseño vectorial (Adobe Illustrator) garantizan que estos activos gráficos cumplan con los más altos estándares de marca y optimización.
+* **Difusión de Marca:** La solución web es la cara pública de la organización. Usted debe emplear correctamente las **herramientas multimedia** y las **aplicaciones web** para promocionar la información y la imagen de su cliente.
+
+---
+
+# Actividad de Cierre 
+
+Para afianzar su comprensión y prepararse para el debate en la próxima sesión, reflexione sobre las siguientes preguntas:
+
+1.  Mencione tres (3) **elementos de diseño o multimedia** (ej. un logo, una imagen optimizada, un audio) que usted cree que son esenciales para el éxito de un sitio web.
+2.  ¿De qué manera el dominio de **Adobe Illustrator** (diseño vectorial) contribuye al objetivo final de **Comunicar y difundir información** (UC 5)?
+3.  Si tuviera que elegir, ¿qué es más importante en un sitio web: la **estética visual** (UC 5) o la **funcionalidad interna del sistema** (UC 3)? Justifique su respuesta con base en el rol del Tecnólogo en Informática.

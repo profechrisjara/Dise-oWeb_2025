@@ -1,0 +1,76 @@
+# La Factibilidad en la Gestión de Proyectos de Diseño
+
+En la **Unidad de Competencia 5 (UC 5)**, la labor del Tecnólogo en Informática no solo abarca el "qué" (el diseño) y el "cómo" (el código), sino también el **"si es posible"** y el **"a qué costo"** se puede ejecutar una solución. La etapa de **Factibilidad Técnica y Económica** es un filtro crítico que precede a la implementación, asegurando que los recursos disponibles (tiempo, dinero, software) se alineen con los requerimientos del cliente.
+
+**Análisis de Factibilidad** es el estudio que determina si un proyecto o solución es viable y sostenible, minimizando el riesgo de fracaso por deficiencias de recursos o limitaciones tecnológicas.
+
+---
+
+# Factibilidad Técnica: La Compatibilidad de la Solución
+
+La factibilidad técnica evalúa si la tecnología existente y las capacidades del equipo son adecuadas para desarrollar, instalar y operar el sistema de diseño o la solución web propuesta. En el contexto de este módulo, se concentra en la selección de herramientas de diseño vectorial.
+
+## Evaluación de Requerimientos de Software
+
+El diseñador debe tomar la decisión más importante: ¿Qué herramienta de ilustración vectorial se utilizará?
+
+* **Software Propietario (Ejemplo: Adobe Illustrator):** Ofrece estándares de la industria, amplias funcionalidades, compatibilidad universal con agencias y un flujo de trabajo altamente optimizado.
+    * **Implicación Técnica:** Garantiza la máxima calidad y versatilidad en la exportación de formatos, pero requiere licencias pagadas.
+* **Software de Código Abierto/Libre (Ejemplo: Inkscape):** Es una alternativa gratuita y potente que maneja el estándar vectorial SVG.
+    * **Implicación Técnica:** Permite la creación de activos de alta calidad sin costo de licencia, pero puede tener limitaciones en ciertas funcionalidades avanzadas o en la compatibilidad perfecta con archivos de terceros (Illustrator/CorelDRAW).
+
+La decisión de qué software utilizar debe responder a la pregunta: **¿El cliente puede operar, modificar o mantener los archivos fuente que le entregaré?**
+
+## Evaluación de Hardware y Entorno
+
+Se debe asegurar que la infraestructura de *hardware* soporta las demandas del *software* de diseño, especialmente en tareas intensivas como la edición de degradados complejos o la manipulación de grandes mesas de trabajo.
+
+* **Capacidad de Procesamiento y Memoria (RAM):** El diseño vectorial y, más aún, la preproducción de imágenes rasterizadas (Unidad 2) consumen altos recursos. Si el *hardware* es limitado, la solución debe simplificarse o el tiempo de desarrollo se incrementará.
+* **Compatibilidad de Sistema Operativo:** Asegurar que las herramientas seleccionadas corran sin conflictos en el ambiente de trabajo del Tecnólogo y del cliente.
+
+## Disponibilidad de Recursos Humanos y Conocimiento
+
+La factibilidad técnica también considera el **nivel de *expertise***.
+* **Curva de Aprendizaje:** ¿El equipo tiene el conocimiento técnico para dominar la herramienta seleccionada (ej. la Herramienta Pluma en Illustrator)?
+* **Disponibilidad de Activos:** ¿Se requiere adquirir librerías de fuentes específicas o *plugins* para el proyecto? Si es así, esto se convierte en un requerimiento económico.
+
+---
+
+# Factibilidad Económica: El Retorno de la Inversión
+
+La factibilidad económica evalúa si los costos proyectados para la solución son justificables por los beneficios que recibirá el cliente. Para el Tecnólogo que emprende, este análisis determina la rentabilidad de su servicio de diseño.
+
+## Análisis Costo-Beneficio
+
+En el contexto de una oficina de diseño gráfico:
+
+| Costos (Egresos) | Beneficios (Ingresos) |
+| :--- | :--- |
+| Costo de licencias de *software* (Illustrator, Photoshop, etc.) | Retorno por el servicio de diseño de logo, identidad corporativa o maquetación. |
+| Costo de *hardware* (PC potente, Tableta gráfica) | Ahorro de tiempo gracias a un *software* más eficiente (ej. Illustrator vs. Inkscape). |
+| Costo de tiempo de desarrollo y capacitación | Capacidad de captar clientes que exigen activos de alta calidad. |
+
+## Impacto de la Licencia en la Factibilidad
+
+La decisión entre *software* libre y *software* propietario afecta directamente la factibilidad económica de un emprendimiento.
+
+* **Costo de Adquisición:** La inversión inicial en licencias puede ser alta, pero garantiza el acceso a herramientas que son el estándar profesional global. Si el presupuesto del proyecto es limitado, el *software* libre puede ser la única opción viable.
+* **Costo de Mantenimiento:** Los *softwares* basados en suscripción (como Adobe Creative Cloud) representan un costo recurrente (un egreso continuo) que debe ser absorbido por los proyectos cobrados.
+
+## Determinación de Precios (Emprendimiento)
+
+El análisis económico ayuda al Tecnólogo a fijar un precio justo por su servicio de diseño. El precio no solo debe cubrir el tiempo invertido (horas curriculares aplicadas), sino también una porción proporcional del costo de las licencias y el *hardware* utilizado.
+
+---
+
+# Síntesis para el Proceso de Diseño
+
+La evaluación de factibilidad es la primera **decisión de diseño**.
+
+| Escenario | Decisión Técnica/Económica |
+| :--- | :--- |
+| **Cliente PYME con presupuesto limitado.** | Elegir *software* libre (Inkscape) para la fase de diseño. |
+| **Cliente Agencia de Publicidad (alto estándar).** | Usar *software* propietario (Illustrator) para garantizar la compatibilidad universal. |
+| **Tiempo de entrega muy ajustado.** | Limitar la complejidad del diseño vectorial a formas sencillas (Buscatrazos básicos) para reducir el tiempo de renderización y edición. |
+
+Al integrar el análisis de factibilidad, el estudiante aprende a diseñar no solo con creatividad, sino con **responsabilidad económica y técnica**, pilares de la Ingeniería en Sistemas.

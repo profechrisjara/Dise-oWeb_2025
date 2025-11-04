@@ -1,0 +1,37 @@
+# Introducción al Módulo Formativo
+
+## Alcance y Contexto Curricular
+
+Este texto es la guía fundamental para el estudio del Módulo Formativo **Diseño y Desarrollo Web**, componente esencial del Bachillerato Técnico en Informática en la Unidad Educativa Particular Carlos Crespi II de Cuenca, durante el período lectivo 2025-2026.
+
+La finalidad de este módulo es dotar al estudiante de las **habilidades de comunicación y difusión de información** requeridas por la **Unidad de Competencia 5 (UC 5)** de la Figura Profesional. El enfoque se centra en la **primera etapa del ciclo de creación de soluciones web intermedias**, garantizando que el egresado sea competente tanto en la conceptualización visual como en la estructuración técnica del *frontend* estático.
+
+## Estructura y Distribución de las Unidades
+
+El contenido curricular se ha organizado en **seis Unidades de Trabajo (UT)**, distribuidas a lo largo del año académico para alinear el aprendizaje práctico con los objetivos de la Figura Profesional. Esta distribución sigue un flujo lógico: **Diseño Visual (Trimestres 1 y 2)**, seguido de la **Codificación y Gestión Técnica (Trimestre 3)**.
+
+### Bloque I: Diseño Gráfico y Composición Digital (Trimestres 1 y 2)
+
+Las primeras cuatro Unidades de Trabajo se dedicarán a la **preproducción** y la **comunicación visual**. El énfasis recaerá en la calidad estética, la usabilidad y la creación de activos optimizados.
+
+| Unidades (Ej. UT 1 - UT 4) | Contenido Clave | Objetivo de Aprendizaje |
+| :--- | :--- | :--- |
+| **Fundamentos de Diseño Vectorial** | Análisis de requerimientos, colorimetría, tipografía y composición (Regla de Tercios). | Aplicar los principios universales del diseño gráfico para la web. |
+| **Dominio de la Herramienta Vectorial** | Manejo profundo de **Adobe Illustrator** (o software equivalente), incluyendo la herramienta Pluma, Buscatrazos, degradados y máscaras de recorte. | Crear logotipos, iconografía y activos gráficos vectoriales optimizados. |
+| **Maquetación y Preproducción** | Desarrollo de *wireframes* (baja fidelidad) y *mockups* (alta fidelidad) de interfaces web. Optimización y organización de elementos multimedia (imágenes, audio). | Diseñar un prototipo visual completo de una interfaz web estática. |
+
+### Bloque II: Codificación Web Estática y Control de Versiones (Trimestre 3)
+
+Las últimas dos Unidades de Trabajo se concentrarán en la traducción del diseño visual a código funcional.
+
+| Unidades (Ej. UT 5 - UT 6) | Contenido Clave | Objetivo de Aprendizaje |
+| :--- | :--- | :--- |
+| **Estructura Semántica con HTML** | Introducción al lenguaje de marcado **HTML5**. Uso de etiquetas semánticas (`<header>`, `<nav>`, `<main>`, `<footer>`) para estructurar correctamente el contenido. | Construir el esqueleto de un sitio web cumpliendo con los estándares de accesibilidad y semántica. |
+| **Diseño con Hoja de Estilo (CSS)** | Introducción a **CSS3**. Dominio del concepto fundamental del *Box Model* (margen, borde, relleno). Aplicación de selectores básicos. | Dar presentación visual y estilizar la estructura HTML de forma limpia y eficiente. |
+| **Gestión Profesional de Código** | Introducción a **Git** y **GitHub** para el control de versiones. | Implementar prácticas profesionales en la gestión y colaboración del código fuente. |
+
+## Metodología de Estudio
+
+El aprendizaje se desarrollará primordialmente bajo la metodología del **Aprendizaje Basado en Proyectos (ABP)**. Esto significa que cada concepto teórico será inmediatamente seguido por un taller práctico o un ejercicio de aplicación que contribuya al desarrollo de un proyecto final. La evaluación de su progreso se centrará en la calidad de sus productos (logotipos, mockups, archivos HTML/CSS) y la rigurosidad en la aplicación de la metodología.
+
+Invitamos a los estudiantes a abordar este texto con una mentalidad **creativa, analítica y emprendedora**, cimentando así su camino hacia el éxito académico y profesional.

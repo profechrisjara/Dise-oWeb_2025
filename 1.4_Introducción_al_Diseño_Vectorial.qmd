@@ -1,0 +1,74 @@
+# Introducción al Diseño Vectorial
+
+# El Fundamento del Diseño Web Moderno
+
+El **Diseño Vectorial** es la base de la Unidad de Competencia 5 (UC 5) y de la creación de activos gráficos para el desarrollo web. Mientras que en la vida cotidiana dominan las fotografías y las imágenes rasterizadas (mapa de bits), el diseño profesional de logotipos, íconos y tipografía exige el uso de la lógica vectorial.
+
+## Vector vs. Mapa de Bits (Rasterizado)
+
+Es crucial entender la diferencia fundamental entre los dos tipos de imágenes que encontrará en su carrera:
+
+| Característica | Imagen Vectorial | Imagen de Mapa de Bits (Rasterizado) |
+| :--- | :--- | :--- |
+| **Definición** | Se basa en **fórmulas matemáticas** (puntos, líneas, curvas) que definen la forma, posición y color. | Se basa en una **rejilla fija de píxeles** (puntos de color). |
+| **Escalabilidad** | **Perfecta.** Se puede escalar a cualquier tamaño (desde un ícono de 16px hasta un edificio) sin perder calidad ni nitidez. | **Limitada.** Al ampliarla, se revela la estructura de píxeles, resultando en un efecto de "dentado" o *aliasing*. |
+| **Peso del Archivo** | Generalmente **ligero**, ya que solo almacena las ecuaciones. | **Pesado**, ya que debe almacenar la información de color de cada píxel. |
+| **Usos Típicos** | Logotipos, íconos, tipografía, ilustraciones, maquetación (*mockups*). | Fotografías, imágenes detalladas con degradados complejos. |
+| **Software Clave** | **Adobe Illustrator**, Inkscape. | Adobe Photoshop, GIMP. |
+
+## La Importancia de la Escalabilidad para la Web
+
+El diseño web moderno exige **sensibilidad y adaptabilidad** (*Responsive Design*). El logo o los íconos de un sitio web deben verse nítidos tanto en la pantalla de un *smartphone* (baja resolución o pequeña) como en un monitor 4K (alta resolución o grande).
+
+* **Sin Diseño Vectorial:** Se necesitaría crear y cargar múltiples versiones de cada logo (una pequeña, una mediana, una grande), lo que aumenta el tiempo de carga del sitio web.
+* **Con Diseño Vectorial:** Se carga un solo archivo **SVG (*Scalable Vector Graphics*)**. El navegador web simplemente lee las ecuaciones y las dibuja a cualquier tamaño con precisión matemática, **sin aumentar el peso del archivo**. Esto optimiza el rendimiento y la experiencia del usuario, cumpliendo con los objetivos de la UC 5.
+
+---
+
+# Fundamentos de la Ilustración Vectorial
+
+El dibujo vectorial se construye a partir de tres elementos fundamentales: **Puntos de Anclaje, Trazados y Curvas de Bézier.**
+
+## Puntos de Anclaje y Trazados
+
+Los **Puntos de Anclaje** son los nodos que definen la forma de un objeto vectorial. Son como los vértices de una figura geométrica. Al conectar dos puntos de anclaje se crea un **Trazado** o **Segmento**.
+
+* **Trazado Abierto:** El punto inicial y el punto final no están conectados (ej. una línea recta o curva).
+* **Trazado Cerrado:** El punto inicial y el punto final están conectados, formando una figura sólida (ej. un círculo, un cuadrado, o un logo).
+
+## Curvas de Bézier: El Lenguaje del Vector
+
+Las **Curvas de Bézier** son el corazón del diseño vectorial. Son curvas controladas por una fórmula matemática, pero que el diseñador manipula mediante **Tiradores (o Manejadores)**.
+
+* **Función:** Los tiradores, que se extienden desde un punto de anclaje, definen la dirección y la intensidad de la curva.
+* **Aplicación Práctica (Herramienta Pluma):** Dominar la Herramienta Pluma implica saber dónde colocar el punto de anclaje y cómo manipular los tiradores para crear la curva deseada con el menor número de puntos posible.
+    * **Principio:** Menos puntos de anclaje significan un archivo más limpio, más ligero y más fácil de editar.
+
+## Herramientas Clave para la Construcción
+
+El dibujo vectorial se basa en la precisión, no en el *feeling* artístico a mano alzada.
+
+| Herramienta | Función Principal | Rol en el Módulo |
+| :--- | :--- | :--- |
+| **Herramienta Pluma** | Creación precisa de puntos de anclaje y Curvas de Bézier. | **Esencial** para vectorizar bocetos y crear formas orgánicas complejas. |
+| **Herramientas de Formas Básicas** | Creación de rectángulos, elipses y polígonos. | Base para la construcción de la mayoría de los íconos y maquetación (retículas). |
+| **Buscatrazos (*Pathfinder*)** | Combinar, restar, intersectar o dividir formas vectoriales. | **Crítico** para crear formas complejas (ej. cortar la luna de un círculo para hacer el logo de una marca). |
+
+---
+
+# La Importancia de la Organización en Illustrator
+
+En Adobe Illustrator (o cualquier software vectorial), la organización de los elementos es tan importante como el diseño mismo.
+
+## Capas (*Layers*) y Subcapas
+
+Las **Capas** permiten organizar los elementos de diseño de forma jerárquica.
+* **Organización Profesional:** Se recomienda usar una capa para el boceto original, otra capa para la tipografía, otra para los íconos y otra para el fondo.
+* **Flujo de Trabajo:** Esto facilita la edición rápida. Si necesita cambiar el color de todos los íconos, simplemente selecciona la Capa de Íconos y aplica el cambio sin afectar el logotipo o el texto.
+
+## Mesas de Trabajo (*Artboards*)
+
+Las Mesas de Trabajo permiten tener múltiples lienzos de diferentes tamaños dentro de un solo archivo.
+* **Aplicación Práctica:** En un solo archivo `.AI`, usted puede diseñar el logo para la web (1000px), el logo para la tarjeta de presentación (85mm) y el ícono de la aplicación (512px). Esto asegura la consistencia y facilita la exportación de múltiples activos.
+
+Dominar la lógica vectorial y las herramientas de construcción es el paso inicial para que el Tecnólogo pueda transformar una idea conceptual (Tema 2: Requerimientos) en un activo digital profesional y escalable, cumpliendo rigurosamente con los requerimientos técnicos de la UC 5.

@@ -1,0 +1,50 @@
+project:
+  type: book
+
+lang: "es"
+
+book:
+  title: "DiseñoWeb_2025"
+  author: "Tec. Sup. Christopher Jara"
+  date: "2025-18-09"
+  page-footer: "Diseño Web - profechrisjara"
+  cover-image: cover.png 
+  cover-image-alt: "Portada Diseño Web 2025"
+  chapters:
+    # Presentación del Libro
+    - index.qmd
+    - intro.qmd
+    # --- PRIMER TRIMESTRE ----
+    - part: "Primer Trimestre"
+      chapters:
+        - 1.1_Introducción_a_la_Figura_Profesional_y_la_UC_5.qmd
+        - 1.2_Análisis_del_Cliente_y_Requerimientos.qmd
+        - 1.3_Factibilidad_Técnica_y_Económica.qmd
+        - 1.4_Introducción_al_Diseño_Vectorial.qmd
+        - 1.5_El_Entorno_de_Adobe_Illustrator.qmd
+        - 1.6_Herramientas_Básicas_de_Dibujo.qmd
+    # --- SEGUNDO TRIMESTRE ----
+    - part: "Segundo Trimestre"
+      chapters:
+        - 2.1.qmd
+        - 2.2.qmd
+    # --- TERCER TRIMESTRE ----
+    - part: "Tercer Trimestre"
+      chapters:
+        - 3.1.qmd
+        - 3.2.qmd
+    - summary.qmd
+    - references.qmd
+
+bibliography: references.bib
+
+format:
+  html:
+    theme:
+      - darkly
+      - brand
+  pdf:
+    documentclass: scrreprt
+
+
+

@@ -1,0 +1,59 @@
+# El Entorno de Adobe Illustrator
+
+# Introducción al Espacio de Trabajo Profesional
+
+Adobe Illustrator es el **estándar de la industria** para la creación de gráficos vectoriales. Para el Tecnólogo en Informática, comprender su entorno no es solo familiarizarse con una herramienta, sino dominar un espacio de trabajo diseñado para la **precisión matemática y la eficiencia creativa**. Una configuración adecuada del entorno es el primer paso para garantizar que los activos gráficos creados cumplan con la calidad exigida por la UC 5.
+
+---
+
+# Componentes Clave del Espacio de Trabajo
+
+El espacio de trabajo de Illustrator se compone de varios elementos que deben ser utilizados de forma organizada y metódica para asegurar un flujo de trabajo profesional.
+
+## Las Mesas de Trabajo (*Artboards*)
+Las Mesas de Trabajo son el **lienzo digital** donde se crea y se diseña.
+
+* **Función:** Representan las áreas imprimibles o exportables del diseño. A diferencia de otros programas, Illustrator permite tener **múltiples Mesas de Trabajo** en un solo archivo.
+* **Aplicación Práctica:** Para el diseño web, se pueden configurar mesas de trabajo con dimensiones exactas para el logotipo, el favicon, la cabecera de la página web, y la iconografía, todo dentro del mismo archivo `.AI`. Esto garantiza la **consistencia visual** entre todos los activos.
+
+## La Barra de Herramientas
+Ubicada generalmente en el lateral izquierdo, contiene todas las herramientas necesarias para la creación y manipulación de gráficos vectoriales.
+
+* **Herramientas de Dibujo:** Incluyen la fundamental **Herramienta Pluma**, las herramientas de formas básicas (rectángulo, elipse) y las herramientas de texto.
+* **Herramientas de Manipulación:** Permiten seleccionar, rotar, escalar y distorsionar los objetos.
+* **Controles de Color:** Permiten definir el color de **Relleno** (el área interior de la forma) y el **Trazo** (el contorno o borde).
+
+## La Barra de Control (o Propiedades)
+Esta barra es dinámica y **cambia su contenido** según la herramienta que esté activa o el objeto que esté seleccionado.
+
+* **Función:** Ofrece un acceso rápido a las opciones más comunes y precisas para la herramienta o el objeto en uso (ej. si la herramienta Pluma está activa, mostrará opciones para añadir o quitar puntos de anclaje). Es vital para la **eficiencia y la precisión**.
+
+---
+
+# Paneles Esenciales para el Flujo de Trabajo
+
+Los paneles son ventanas flotantes que controlan aspectos específicos de los objetos, el color y la organización del proyecto. Dominar su uso minimiza el tiempo de desarrollo.
+
+## Paneles de Organización: Capas (*Layers*) y Mesas de Trabajo
+* **Capas:** Es el panel más importante para la organización. Permiten **agrupar elementos** de forma lógica (ej. una capa para la "Tipografía", una capa para los "Fondos", una capa para la "Iconografía"). Esto previene la edición accidental de elementos ya finalizados y facilita la gestión de archivos complejos.
+* **Panel Mesas de Trabajo:** Permite renombrar, duplicar y reordenar los diferentes lienzos del proyecto.
+
+## Paneles de Composición y Edición Vectorial
+* **Buscatrazos (*Pathfinder*):** Esencial para el diseño de logotipos. Permite realizar **operaciones booleanas** (unir, restar, intersectar, excluir) entre múltiples formas simples para crear formas complejas. Es la calculadora del diseño vectorial.
+* **Color y Muestras:** Permiten definir el color exacto (Hexadecimal para web o CMYK para impresión) y guardar las **paletas de color de la marca** (Tema 10) para asegurar la consistencia cromática.
+* **Apariencia:** Permite ver y editar los atributos de relleno, trazo y efectos (como sombras y degradados) aplicados a un objeto, todo desde un mismo lugar.
+
+## Paneles de Texto
+* **Carácter y Párrafo:** Ofrecen control total sobre la tipografía, incluyendo el interlineado, espaciado entre letras (*kerning*) y la justificación. Este control preciso es vital para establecer la **jerarquía visual** (Tema 12) de una interfaz.
+
+---
+
+# Configuración del Entorno para el Desarrollo Web
+
+El Tecnólogo debe personalizar el entorno de Illustrator para optimizarlo para la creación de activos web (en lugar de impresión).
+
+1.  **Modo de Color del Documento:** Siempre debe establecerse en **RGB** (Rojo, Verde, Azul), ya que este es el modelo de color utilizado por los monitores y navegadores web. El modo CMYK solo se utiliza para impresión.
+2.  **Unidades de Medida:** Las unidades deben estar configuradas en **Píxeles (px)** para garantizar que las dimensiones y exportaciones se correspondan exactamente con las medidas que se utilizarán posteriormente en el código HTML y CSS.
+3.  **Espacio de Trabajo Esencial:** Se recomienda utilizar y personalizar un espacio de trabajo que mantenga visibles los paneles más utilizados en la creación de activos web: **Capas, Buscatrazos, y Color**.
+
+El dominio y la personalización del entorno de Adobe Illustrator permiten al estudiante trabajar con la **eficiencia y la precisión** que demanda el desarrollo de soluciones web a nivel profesional, transformando el *software* de una simple herramienta a un auténtico **laboratorio de diseño digital**.

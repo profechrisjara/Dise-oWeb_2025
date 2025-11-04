@@ -1,0 +1,26 @@
+# Prefacio {.unnumbered}
+
+## La Formación Técnica y el Desafío Digital
+
+El Bachillerato Técnico en Informática, como pilar fundamental de la educación productiva en la Unidad Educativa Particular Carlos Crespi II de la ciudad de Cuenca, se enfoca en dotar a sus estudiantes de **competencias técnicas sólidas** para enfrentar los desafíos de la Cuarta Revolución Industrial. Es en este contexto, y con miras al período lectivo 2025-2026, que presentamos el presente texto de estudio. Este material ha sido diseñado específicamente para el Módulo Formativo **Diseño y Desarrollo Web** para los estudiantes de **Segundo de Bachillerato Técnico**.
+
+## Propósito Académico y Enfoque Pedagógico 🏛️
+
+Este texto se concibe no solo como una referencia teórica, sino como un **laboratorio de aplicación práctica**. Nuestro propósito principal es doble:
+
+1.  **Preparación Universitaria:** Asegurar que el estudiante adquiera una base conceptual rigurosa y procedimental que facilite la **prosecución de estudios de nivel superior** en campos de la tecnología, la ingeniería o el diseño.
+2.  **Capacidad de Emprendimiento:** Proveer el conocimiento técnico para la creación de soluciones digitales, abriendo la puerta a la posibilidad de **emprender con una oficina de diseño gráfico** o de prestación de servicios web en el mercado local.
+
+El enfoque pedagógico central de este libro es el **Aprendizaje Basado en Proyectos (ABP)**. Cada unidad de trabajo está intencionalmente estructurada para culminar en un proyecto tangible y evaluable, integrando los conocimientos de diseño vectorial (Illustrator) y codificación web estática (HTML5/CSS3). De esta manera, el estudiante se centra en la **resolución creativa de problemas**, un requisito esencial de la profesión.
+
+Este módulo aborda directamente la **Unidad de Competencia 5 (UC 5)** de la Figura Profesional de Informática, la cual exige la habilidad de **Comunicar y difundir información utilizando herramientas multimedia y aplicaciones de desarrollo WEB**. El dominio de la ilustración vectorial y la comprensión del marcado semántico son, por tanto, pilares fundamentales de su formación.
+
+## Reconocimiento 🙏
+
+El desarrollo de este material didáctico contextualizado es el resultado de un compromiso ineludible con la calidad educativa en la Unidad Educativa Carlos Crespi II. Agradezco a las autoridades y a la comunidad docente por el apoyo constante a la formación técnica.
+
+Finalmente, deseo extender un profundo y sincero reconocimiento a **mi esposa y mi hija**, cuya paciencia, motivación y apoyo incondicional han sido el fundamento personal que ha permitido la dedicación y la culminación de este proyecto.
+
+**T.S. Christopher Paul Jara Verdugo**
+Docente del Módulo Formativo Diseño y Desarrollo Web
+Unidad Educativa Particular Carlos Crespi II

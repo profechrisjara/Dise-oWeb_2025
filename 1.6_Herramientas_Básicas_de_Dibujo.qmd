@@ -1,0 +1,60 @@
+# Herramientas Básicas de Dibujo
+
+# La Construcción de la Geometría Vectorial
+
+Una vez que el Tecnólogo se familiariza con el entorno de Adobe Illustrator, el siguiente paso práctico es dominar la creación de formas. Las **Herramientas Básicas de Dibujo** son la fundación de toda ilustración vectorial, ya que hasta las formas más complejas se construyen, en última instancia, a partir de primitivas geométricas o trazos simples.
+
+El principio es sencillo: **precisión sobre intuición**. Las herramientas permiten crear formas con dimensiones matemáticas exactas, un requisito indispensable para la maquetación web y el diseño de iconos.
+
+---
+
+# Las Herramientas de Formas Primitivas
+
+Las formas primitivas (rectángulos, elipses, polígonos) son el punto de partida para construir la mayoría de los activos gráficos de una interfaz web. Illustrator trata estas formas como **objetos vectoriales dinámicos**, lo que significa que pueden ser editadas con precisión en cualquier momento.
+
+## Creación y Edición de Formas Clave
+
+### Herramienta Rectángulo y Elipse
+* **Función:** Permiten crear las formas más comunes utilizadas en diseño web: botones, contenedores de contenido, y marcos de imagen.
+* **Uso con Restricción:** Es crucial aprender a usar la tecla **Shift** durante el arrastre. Al mantenerla presionada, se **restringen las proporciones** de la forma, creando cuadrados perfectos o círculos perfectos. Esto es esencial para la consistencia en el diseño de íconos.
+* **Edición Post-creación:** Las versiones modernas de Illustrator permiten editar las esquinas de un rectángulo (redondear los bordes) directamente después de dibujarlo, sin necesidad de usar efectos adicionales.
+
+### Herramienta Polígono y Estrella
+* **Función:** Permiten crear formas con un número definido de lados (polígonos) o puntas (estrellas).
+* **Control:** Manteniendo presionada la barra espaciadora durante el dibujo, el Tecnólogo puede **mover la forma** antes de soltar el *mouse*, lo que facilita su colocación precisa en la Mesa de Trabajo. El número de lados del polígono o puntas de la estrella se puede ajustar mediante el teclado.
+
+## Manejo de Relleno y Trazo
+
+Todo objeto vectorial tiene dos propiedades esenciales que controlan su apariencia:
+
+* **Relleno (*Fill*):** Es el color, patrón o degradado que cubre el área interior de la forma. El control de relleno es crucial para la estética del *mockup* (Unidad 2).
+* **Trazo (*Stroke*):** Es el contorno o línea que bordea la forma. Se puede modificar su grosor, color y estilo (líneas discontinuas). En diseño web e iconografía, es común desactivar el trazo para lograr un aspecto más limpio.
+* **Intercambio (Shift + X):** Un atajo clave es el intercambio rápido de los atributos de relleno y trazo, permitiendo al diseñador alternar rápidamente la apariencia de la forma.
+
+---
+
+# Herramientas de Selección y Manipulación
+
+Una vez que las formas existen, es necesario moverlas, agruparlas o transformarlas con precisión.
+
+## Herramienta de Selección (*Selection Tool* - V)
+* **Función:** Utilizada para seleccionar objetos completos, moverlos, rotarlos y escalarlos.
+* **Escalado Racional:** Al igual que con las formas, mantener **Shift** presionado mientras se escala asegura que la forma se mantenga **proporcional** (no se deforme), lo cual es indispensable para mantener la integridad visual de cualquier activo gráfico.
+
+## Herramienta de Selección Directa (*Direct Selection Tool* - A)
+* **Función:** A diferencia de la Herramienta de Selección, esta permite seleccionar y manipular **puntos de anclaje individuales** o segmentos de trazo específicos.
+* **Aplicación Práctica:** Es esencial para la creación de formas orgánicas o la corrección precisa de un trazo. Permite "doblar" un rectángulo editando únicamente las esquinas sin afectar el resto del objeto.
+
+## Agrupar Objetos
+Para facilitar la manipulación de formas compuestas (ej. un icono hecho de tres círculos y un rectángulo), la función de **Agrupar (Ctrl + G)** es vital. Un grupo actúa como un solo objeto para las herramientas de selección y movimiento, pero mantiene sus componentes individuales para futuras ediciones.
+
+---
+
+# Impacto en el Flujo de Trabajo (ABP)
+
+El dominio de estas herramientas básicas está directamente relacionado con la eficiencia en el **Aprendizaje Basado en Proyectos (ABP)**.
+
+* **Eficiencia:** El uso de herramientas de formas primitivas es más rápido y preciso que intentar dibujar las formas a mano alzada con la Pluma. Un icono de cámara puede crearse en segundos utilizando solo círculos y rectángulos.
+* **Preparación para Buscatrazos:** Las formas creadas con estas herramientas serán los componentes principales que se introducirán en el panel **Buscatrazos** (Tema 13) para crear logotipos y formas más complejas. La precisión en la creación de las primitivas se traduce en la exactitud del resultado final.
+
+El Tecnólogo debe entender que las herramientas de dibujo son los "ladrillos" del diseño vectorial; mientras más precisos sean los ladrillos, más robusta será la construcción de la interfaz.
