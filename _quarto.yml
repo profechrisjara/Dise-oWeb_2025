@@ -10,6 +10,7 @@ book:
   page-footer: "Diseño Web - profechrisjara"
   cover-image: cover.png 
   cover-image-alt: "Portada Diseño Web 2025"
+  site-url: https://profechrisjara.github.io/Dise-oWeb_2025
   chapters:
     # Presentación del Libro
     - index.qmd
