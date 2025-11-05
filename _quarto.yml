@@ -46,6 +46,6 @@ format:
       - brand
   pdf:
     documentclass: scrreprt
-
+    lang: "en"
 
 

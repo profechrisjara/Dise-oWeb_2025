@@ -10,3 +10,5 @@
 
 # Archivos de Sistema Operativo (Buena práctica)
 .DS_Store
+/.quarto/
+**/*.quarto_ipynb
