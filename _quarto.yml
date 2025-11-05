@@ -42,8 +42,8 @@ bibliography: references.bib
 format:
   html:
     theme:
-      - darkly
-      - brand
+      light: morph
+      dark: cyborg
   pdf:
     documentclass: scrreprt
     lang: "en"
