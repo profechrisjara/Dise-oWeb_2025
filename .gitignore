@@ -12,3 +12,6 @@
 .DS_Store
 /.quarto/
 **/*.quarto_ipynb
+
+# Ignorar archivos PDF generados
+*.pdf
